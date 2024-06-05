@@ -1,16 +1,14 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🥇
 
-<!--
-**vitorgabriel2107/vitorgabriel2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor Gabriel
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você entrar em contato comigo 📫
+
+  vitor21062006silva@gmail.com
+  
+  @vitor_gabriel_ff_2.1
+
+  ![gear-5-one-piece](https://github.com/vitorgabriel2107/vitorgabriel2107/assets/171696135/e6b44683-8a84-4005-b1ac-077651968e2c)
